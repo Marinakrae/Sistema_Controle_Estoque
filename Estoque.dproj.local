@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/28 18:01:59.000.264,=C:\Users\marin\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/06 13:52:49.000.941,=C:\Users\marin\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/06 13:53:56.000.024,C:\Users\marin\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\unitPrincipal.pas</Transaction>
+    <Transaction>2022/03/06 13:53:56.000.024,C:\Users\marin\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\unitPrincipal.dfm</Transaction>
+    <Transaction>2022/03/06 13:54:09.000.033,C:\Users\marin\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\Estoque.dproj</Transaction>
+    <Transaction>2022/03/06 14:06:37.000.946,=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\Unit2.pas</Transaction>
+    <Transaction>2022/03/06 14:07:18.000.681,C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\unitCadProduto.dfm=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\Unit2.dfm</Transaction>
+    <Transaction>2022/03/06 14:07:18.000.681,C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\unitCadProduto.pas=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\Unit2.pas</Transaction>
+    <Transaction>2022/03/06 14:07:39.000.518,=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\Unit2.pas</Transaction>
+    <Transaction>2022/03/06 14:08:02.000.782,=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\Unit2.pas</Transaction>
+    <Transaction>2022/03/06 14:08:26.000.308,C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\unitCadMovimentacao.pas=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\Unit2.pas</Transaction>
+    <Transaction>2022/03/06 14:08:26.000.308,C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\unitCadMovimentacao.dfm=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\Unit2.dfm</Transaction>
+    <Transaction>2022/03/06 14:09:30.000.834,=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\Unit2.pas</Transaction>
+    <Transaction>2022/03/06 14:10:09.000.432,C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\unitConsMovimentacao.pas=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\Unit2.pas</Transaction>
+    <Transaction>2022/03/06 14:10:09.000.432,C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\unitConsMovimentacao.dfm=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\Unit2.dfm</Transaction>
+    <Transaction>2022/03/06 14:10:48.000.191,=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\Unit1.pas</Transaction>
+    <Transaction>2022/03/06 14:11:06.000.576,C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\unitDM.dfm=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\Unit1.dfm</Transaction>
+    <Transaction>2022/03/06 14:11:06.000.576,C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\unitDM.pas=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Estoque\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
